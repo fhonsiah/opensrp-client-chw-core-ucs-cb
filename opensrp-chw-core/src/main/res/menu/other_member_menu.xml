@@ -171,6 +171,12 @@
         android:title="@string/gbv_registration"
         app:showAsAction="never" />
     <item
+        android:id="@+id/action_ge_enrolment"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/ge_enrolment"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/action_remove_member"
         android:enabled="true"
         android:title="@string/remove_this_person"
