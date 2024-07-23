@@ -836,6 +836,8 @@
     <string name="gbv_registration">GBV/VAC Registration</string>
     <string name="vac_registration">VAC Registration</string>
 
+     <!--  Option menu Ge Enrolment -->
+    <string name="ge_enrolment">GE Enrollment</string>
 
 
 </resources>
